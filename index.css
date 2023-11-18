@@ -1,0 +1,14 @@
+.point {
+    width: 150px;
+}
+.editable{
+background-color:white !important;
+color: black;
+} 
+.none{
+    display: none;
+}
+.d-block{
+    display: block;
+}
+
